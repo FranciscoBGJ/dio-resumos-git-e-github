@@ -17,4 +17,4 @@ versionamento de código Git e GitHub da [Digital Innovation One](https://www.di
 git init
 ```
 ## 🔍 Referências 
-- [Digital Innovation One](https://www.dio.me)
+- [Digital Innovation One](https://www.dio.me).
